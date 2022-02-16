@@ -1,0 +1,36 @@
+
+.heading button{
+    float:right;
+    border:1px solid white;
+    }
+    
+    .heading h3{
+    display:inline;
+    }
+    
+    .heading{
+    width:100%;
+    text-align: left;
+    }
+   
+    
+    #play_game, #status {
+    font-size:20px; 
+    }
+    
+   
+    
+     .modal-dialog {
+    width:90%;
+     }
+    
+     h4 {
+    background-color: rgb(255, 232, 236);
+    line-height: 2;
+    margin:0%;
+     }
+
+     #ping_pong {
+    width:45%;
+
+     }
