@@ -27,10 +27,31 @@
      h4 {
     background-color: rgb(255, 232, 236);
     line-height: 2;
-    margin:0%;
+   bottom:0;
+   position:fixed;
+   width:100%;
      }
 
-     #ping_pong {
-    width:45%;
+     
 
+     #ping_pong {
+    width:30%;
+
+     }
+
+     #restart {
+    width:5%;
+    margin:40px; 
+     }
+
+     .modal-body{
+    text-align:left;
+    font-size:29px;
+     }
+
+     canvas {
+    border: 3px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px white;
+    margin: 250px;
      }

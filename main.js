@@ -22,7 +22,7 @@ var ball = {
 }
 
 function setup(){
-  var canvas =  createCanvas(600,500);
+  var canvas =  createCanvas(420,390);
   canvas.center();
 }
 
@@ -58,7 +58,7 @@ function draw(){
     //function midline call
     midline();
     
-    //funtion drawScore call 
+    //function drawScore call 
    drawScore();
    
    //function models call  
